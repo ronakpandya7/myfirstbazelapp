@@ -13,7 +13,7 @@ module.exports = function (config) {
       require('@angular-devkit/build-angular/plugins/karma')
     ],
     customLaunchers: {
-      ChromeHeadlessCI: {
+      "chromium-local": {
         base: 'ChromeHeadless',
         flags: ['--no-sandbox']
       }
@@ -27,11 +27,11 @@ module.exports = function (config) {
       fixWebpackSourcePaths: true
     },
     reporters: ['progress', 'kjhtml'],
-    port: 9877,
+    port: 9876,
     colors: true,
     logLevel: config.LOG_INFO,
     autoWatch: true,
-    browsers: ['ChromeHeadlessCI'],
+    browsers: ['chromium-local'],
     singleRun: false,
     restartOnFileChange: true
   });
