@@ -46,6 +46,7 @@
           "options": {
             "bazelCommand": "test",
             "targetLabel": "//src/..."
+            
           }
         },
         "lint": {
