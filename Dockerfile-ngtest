@@ -1,4 +1,4 @@
-FROM node
+FROM debian:stable-slim
 
 RUN apt-get update
 RUN apt-get install -yy wget curl gnupg
