@@ -1,26 +1,10 @@
 package(default_visibility = ["//visibility:public"])
 
-load("@npm_bazel_karma//:index.bzl", "karma_web_test")
-
-karma_web_test(
-    name = "test",
-    srcs = [
-        "@npm//node_modules/tslib:tslib.js",
-    ],
-    runtime_deps = [
-        ":initialize_testbed",
-    ],
-    # do not sort
-    bootstrap = [
-        "@npm//node_modules/zone.js:dist/zone-testing-bundle.js",
-        "@npm//node_modules/reflect-metadata:Reflect.js",
-    ],
-    deps = [
-        ":rxjs_umd_modules",
-        ":test_lib",
-        "@npm//karma-jasmine",
-    ],
-    config_file = "karma.conf.js"
+custom_browser(
+    name = "chromium-no-sandbox",
+    browser = "@io_bazel_rules_webtesting//browsers:chromium-local",
+    metadata = "chromium-no-sandbox.json",
+    visibility = ["//frontend:__subpackages__"],
 )
 
 # This export allows targets in other packages to reference files that live
