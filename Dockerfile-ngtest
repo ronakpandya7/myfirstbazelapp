@@ -26,7 +26,7 @@ WORKDIR /usr/src/cloudapp/BazelTest
 
 RUN npm install
 
-RUN npm run test
+RUN ./node_modules/@angular/cli/bin/ng test
 
 # Start Node.js Application with server.js
 CMD [ "ls" ]   
