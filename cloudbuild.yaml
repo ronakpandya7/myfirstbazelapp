@@ -9,5 +9,5 @@ steps:
   name: 'gcr.io/cloud-builders/npm'
   args: [ 'install', 'unzip' ]
 - id: ng_test
-  name: 'gcr.io/cloud-builders/npm'
-  args: [ 'run', 'test' ]
+  name: 'node'
+  args: [ 'npm', 'run', 'test' ]
