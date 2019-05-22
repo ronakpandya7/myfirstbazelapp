@@ -39,7 +39,7 @@ WORKDIR /home/chrome/cloudapp/
 
 RUN npm install
 
-RUN npm run start 
+RUN npm run test 
 
 # Start Node.js Application with server.js
 CMD [ "ls" ]   
