@@ -1,9 +1,0 @@
-{
-    "capabilities" : {
-      "goog:chromeOptions" : {
-        "args" : [
-          "--no-sandbox"
-        ]
-      }
-    }
-  }

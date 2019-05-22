@@ -1,7 +1,6 @@
 package(default_visibility = ["//visibility:public"])
 
 load("@npm_angular_bazel//:index.bzl", "ng_module")
-
 load("@npm_bazel_karma//:index.bzl", "ts_web_test_suite")
 load("@build_bazel_rules_nodejs//:defs.bzl", "rollup_bundle", "history_server")
 load("@build_bazel_rules_nodejs//internal/web_package:web_package.bzl", "web_package")
@@ -132,13 +131,13 @@ ts_web_test_suite(
         "@npm//node_modules/zone.js:dist/zone-testing-bundle.js",
         "@npm//node_modules/reflect-metadata:Reflect.js",
     ],
-    browsers = [
-        #"@io_bazel_rules_webtesting//browsers:chromium-local",
-        "//:chromium-no-sandbox"
+     browsers = [
+        #"@io_bazel_rules_webtesting//browsers:firefox-local",
+        "//:chromium-local"
     ],
     deps = [
         ":rxjs_umd_modules",
         ":test_lib",
         "@npm//karma-jasmine",
-    ],
+    ]
 )
