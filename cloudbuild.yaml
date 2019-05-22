@@ -6,5 +6,5 @@ steps:
   name: 'gcr.io/cloud-builders/npm'
   args: [ 'install' ]
 - id: ng_test
-  name: 'gcr.io/cloud-builders/bazel'
-  args: [ 'test' ]
+  name: 'gcr.io/cloud-builders/npm'
+  args: [ 'run', 'build' ]
