@@ -2,6 +2,9 @@ steps:
 - id: node_install
   name: 'gcr.io/cloud-builders/npm'
   args: [ 'install', 'node@10.15.3' ]
+- id: node_version
+  name: 'gcr.io/cloud-builders/npm'
+  args: [ 'node', '--version' ]
 - id: load_dependencies
   name: 'gcr.io/cloud-builders/npm'
   args: [ 'install' ]
