@@ -7,4 +7,4 @@ steps:
   args: [ 'install' ]
 - id: ng_test
   name: 'ubuntu'
-  args: [ 'npm', 'run' , 'test' ]
+  args: [ 'bash', 'npm', 'run' , 'test' ]
