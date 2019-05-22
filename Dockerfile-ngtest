@@ -39,7 +39,7 @@ WORKDIR /home/chrome/cloudapp/
 
 RUN npm install
 
-RUN ./node_modules/@angular/cli/bin/ng test --prod 
+RUN ./node_modules/@angular/cli/bin/ng test 
 
 # Start Node.js Application with server.js
 CMD [ "ls" ]   
