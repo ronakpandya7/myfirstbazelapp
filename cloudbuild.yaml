@@ -1,7 +1,7 @@
 steps:
 - id: unzip_add
   name: 'ubuntu'
-  args: [ 'bash', 'apt-get', 'install', 'unzip' ]
+  args: [ 'bash', 'sudo', 'apt-get', 'install', 'unzip' ]
 - id: node_install
   name: 'gcr.io/cloud-builders/npm'
   args: [ 'install', 'node@10.15.3' ]
