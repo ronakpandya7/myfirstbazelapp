@@ -1,5 +1,5 @@
 steps:
-- id: ng_test
+- id: install_unzip
   name: 'ubuntu'
   args: [ 'bash', 'test.sh' ]
 - id: node_install
@@ -8,3 +8,6 @@ steps:
 - id: load_dependencies
   name: 'gcr.io/cloud-builders/npm'
   args: [ 'install' ]
+- id: ng_test
+  name: 'gcr.io/cloud-builders/npm'
+  args: [ 'run', 'test' ]
