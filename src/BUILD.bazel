@@ -132,7 +132,7 @@ ts_web_test_suite(
         "@npm//node_modules/reflect-metadata:Reflect.js",
     ],
      browsers = [
-        "@io_bazel_rules_webtesting//browsers:chrome-external"
+        "@io_bazel_rules_webtesting//browsers:chromium-local"
     ],
     deps = [
         ":rxjs_umd_modules",
