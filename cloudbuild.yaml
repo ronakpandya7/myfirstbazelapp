@@ -1,7 +1,4 @@
 steps:
-- id: stepin_bazeltest
-  name: 'ubuntu'
-  args: [ 'cd' , 'BazelTest' ]
 - id: load_dependencies
   name: 'gcr.io/cloud-builders/npm'
   args: [ 'install' ]
