@@ -27,8 +27,6 @@ RUN mkdir /usr/src/cloudapp
 COPY . /usr/src/cloudapp/
 WORKDIR /usr/src/cloudapp/
 
-RUN npm install
-
 # Add a chrome user and setup home dir.
 RUN groupadd --system chrome && \
     useradd --system --create-home --gid chrome --groups audio,video chrome && \
@@ -36,6 +34,10 @@ RUN groupadd --system chrome && \
     chown --recursive chrome:chrome /home/chrome
 
 USER chrome
+
+WORKDIR /usr/src/cloudapp/
+
+RUN npm install
 
 RUN ./node_modules/@angular/cli/bin/ng test --prod 
 
