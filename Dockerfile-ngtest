@@ -39,7 +39,7 @@ RUN npm install
 
 RUN ./node_modules/@angular/cli/bin/ng --version
 
-RUN ./node_modules/@angular/cli/bin/ng build --prod 
+RUN ./node_modules/@angular/cli/bin/ng test --prod 
 
 # Start Node.js Application with server.js
 CMD [ "ls" ]   
