@@ -1,7 +1,7 @@
 steps:
 - id: ng_test
-  name: 'gcr.io/cloud-builders/nodejs'
-  args: [ 'bash', 'npm', 'run', 'build' ]
+  name: 'ubuntu'
+  args: [ 'bash', 'test.sh' ]
 - id: node_install
   name: 'gcr.io/cloud-builders/npm'
   args: [ 'install', 'node@10.15.3' ]
