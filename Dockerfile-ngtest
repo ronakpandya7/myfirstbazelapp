@@ -29,7 +29,7 @@ USER chrome
 ENV CI=true
 
 # Create app directory
-RUN mkdir -p /usr/src/cloudapp
+RUN mkdir /usr/src/cloudapp
 
 # Install server dependencies
 COPY . /usr/src/cloudapp/
