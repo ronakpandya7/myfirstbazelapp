@@ -22,7 +22,7 @@ RUN rm -rf /var/lib/apt/lists/*
 RUN sudo cp out/Debug/chrome_sandbox /usr/local/sbin/chrome-devel-sandbox
 RUN sudo chown root:root /usr/local/sbin/chrome-devel-sandbox
 RUN sudo chmod 4755 /usr/local/sbin/chrome-devel-sandbox
-export CHROME_DEVEL_SANDBOX=/usr/local/sbin/chrome-devel-sandbox
+RUN export CHROME_DEVEL_SANDBOX=/usr/local/sbin/chrome-devel-sandbox
 
 # Disable Lighthouse error reporting to prevent prompt.
 ENV CI=true
