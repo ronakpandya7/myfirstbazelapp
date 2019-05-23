@@ -21,7 +21,7 @@ RUN chmod +x /usr/local/bin/dumb-init
 ARG CACHEBUST=1
 RUN npm i lighthouse -g
 
-RUN apt-get install chromium-browser -y
+RUN apt-get install chromium-browser
 
 # Install server dependencies
 COPY . /home/chrome/cloudapp/
