@@ -123,6 +123,10 @@ karma_web_test(
     srcs = [
         "@npm//node_modules/tslib:tslib.js",
     ],
+    configuration_env_vars=[
+        "--watch=false",
+        "--single-run=true"
+    ],
     runtime_deps = [
         ":initialize_testbed",
     ],
