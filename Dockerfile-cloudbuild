@@ -21,7 +21,7 @@ RUN chmod +x /usr/local/bin/dumb-init
 ARG CACHEBUST=1
 RUN npm i lighthouse -g
 
-RUN sudo sysctl kernel.unprivileged_userns_clone=1
+RUN sysctl kernel.unprivileged_userns_clone=1
 
 # Install server dependencies
 COPY . /home/chrome/cloudapp/
