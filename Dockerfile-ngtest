@@ -26,18 +26,15 @@ RUN groupadd --system chrome && \
     mkdir --parents /home/chrome/reports && \
     chown --recursive chrome:chrome /home/chrome
 
+USER chrome
+
 # Create app directory
 RUN mkdir /home/chrome/cloudapp
 
 # Install server dependencies
 COPY . /home/chrome/cloudapp/
 WORKDIR /home/chrome/cloudapp/
-
-WORKDIR /home/chrome/cloudapp/
-
 RUN npm install
-
 RUN npm run test 
-
 # Start Node.js Application with server.js
 CMD [ "ls" ]   
