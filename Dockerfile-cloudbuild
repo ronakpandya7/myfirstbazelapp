@@ -24,15 +24,15 @@ RUN npm i lighthouse -g
 # Install server dependencies
 COPY . /home/chrome/cloudapp/
 WORKDIR /home/chrome/cloudapp/
-RUN npm install
+RUN export CHROME_DEVEL_SANDBOX=/usr/local/sbin/chrome-devel-sandbox
 
 # Add a chrome user and setup home dir.
-#RUN groupadd --system chrome && \
+# RUN groupadd --system chrome && \
 #    useradd --system --create-home --gid chrome --groups audio,video chrome && \
 #    mkdir --parents /home/chrome/reports && \
 #    chown --recursive chrome:chrome /home/chrome
 
-#USER chrome
+# USER chrome
 
 #VOLUME /home/chrome/reports
 #WORKDIR /home/chrome/reports
