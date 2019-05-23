@@ -26,7 +26,8 @@ RUN npm i lighthouse -g
 COPY . /home/chrome/cloudapp/
 WORKDIR /home/chrome/cloudapp/
 RUN npm install
-RUN export CHROME_DEVEL_SANDBOX=/usr/local/sbin/chrome-devel-sandbox
+RUN ls /usr/bin
+RUN export CHROME_BIN=/usr/bin/chromium
 
 # Add a chrome user and setup home dir.
 # RUN groupadd --system chrome && \
