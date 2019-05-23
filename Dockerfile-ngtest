@@ -19,20 +19,23 @@ RUN rm -rf /var/lib/apt/lists/*
 
 
 
-RUN cp out/Debug/chrome_sandbox /usr/local/sbin/chrome-devel-sandbox
-RUN chown root:root /usr/local/sbin/chrome-devel-sandbox
-RUN chmod 4755 /usr/local/sbin/chrome-devel-sandbox
-RUN export CHROME_DEVEL_SANDBOX=/usr/local/sbin/chrome-devel-sandbox
+# Add a chrome user and setup home dir.
+RUN groupadd --system chrome && \
+    useradd --system --create-home --gid chrome --groups audio,video chrome && \
+    mkdir --parents /home/chrome/reports && \
+    chown --recursive chrome:chrome /home/chrome
+
+USER chrome
 
 # Disable Lighthouse error reporting to prevent prompt.
 ENV CI=true
 
 # Create app directory
-RUN mkdir /usr/src/cloudapp
+RUN mkdir /home/chrome/cloudapp
 
 # Install server dependencies
-COPY . /usr/src/cloudapp/
-WORKDIR /usr/src/cloudapp/
+COPY . /home/chrome/cloudapp/
+WORKDIR /home/chrome/cloudapp/
 RUN npm install
 RUN npm run test 
 # Start Node.js Application with server.js
