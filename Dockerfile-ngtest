@@ -17,8 +17,7 @@ RUN apt update && apt install -y procps
 RUN apt clean
 RUN rm -rf /var/lib/apt/lists/*
 
-# Disable Lighthouse error reporting to prevent prompt.
-ENV CI=true
+
 
 # Add a chrome user and setup home dir.
 RUN groupadd --system chrome && \
@@ -27,6 +26,9 @@ RUN groupadd --system chrome && \
     chown --recursive chrome:chrome /home/chrome
 
 USER chrome
+
+# Disable Lighthouse error reporting to prevent prompt.
+ENV CI=true
 
 # Create app directory
 RUN mkdir /home/chrome/cloudapp
