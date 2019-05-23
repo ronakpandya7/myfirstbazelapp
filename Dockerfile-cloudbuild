@@ -21,6 +21,9 @@ RUN chmod +x /usr/local/bin/dumb-init
 ARG CACHEBUST=1
 RUN npm i lighthouse -g
 
+apt-get install chromium
+ln -s ../chromium/chrome-sandbox /usr/lib/brave/chrome-sandbox
+
 # Install server dependencies
 COPY . /home/chrome/cloudapp/
 WORKDIR /home/chrome/cloudapp/
