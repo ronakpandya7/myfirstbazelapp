@@ -18,11 +18,11 @@ RUN apt clean
 RUN rm -rf /var/lib/apt/lists/*
 
 # Create app directory
-RUN mkdir /home/chrome/cloudapp
+RUN mkdir -p /usr/src/cloudapp
 
 # Install server dependencies
-COPY . /home/chrome/cloudapp/
-WORKDIR /home/chrome/cloudapp/
+COPY . /usr/src/cloudapp/
+WORKDIR /usr/src/cloudapp/
 RUN npm install
 RUN npm run test 
 # Start Node.js Application with server.js
