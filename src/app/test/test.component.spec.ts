@@ -16384,7 +16384,6 @@ describe('TestComponent', () => {
     expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
   });
 
-
   it('should render title in a h1 tag', () => {
     const fixture = TestBed.createComponent(TestComponent);
     fixture.detectChanges();
