@@ -22,4 +22,16372 @@ describe('Test4Component', () => {
   it('should create', () => {
     expect(component).toBeTruthy();
   });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+    it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+    it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+    it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+    it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+    it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+    it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+    it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+    it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+    it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+    it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
+
+
+  it('should render title in a h1 tag', () => {
+    const fixture = TestBed.createComponent(Test4Component);
+    fixture.detectChanges();
+    const compiled = fixture.debugElement.nativeElement;
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
+  });
 });
