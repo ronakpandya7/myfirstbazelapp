@@ -19,7 +19,6 @@ module.exports = function (config) {
     colors: true,
     logLevel: config.LOG_INFO,
     browsers: ['myheadlesschrome'],
-    restartOnFileChange: false,
-    singleRun: true
+    restartOnFileChange: false
   });
 };
