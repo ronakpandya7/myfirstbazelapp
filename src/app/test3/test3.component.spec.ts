@@ -23,7 +23,7 @@ describe('Test3Component', () => {
     expect(component).toBeTruthy();
   });
 
-  it('should render title in a h1 tag', () => {
+  /*it('should render title in a h1 tag', () => {
     const fixture = TestBed.createComponent(Test3Component);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
@@ -16389,5 +16389,5 @@ describe('Test3Component', () => {
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
     expect(compiled.querySelector('h1').textContent).toContain('Welcome to test-bazel!');
-  });
+  });*/
 });
